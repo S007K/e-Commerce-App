@@ -1,0 +1,1028 @@
+{
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 1,
+      "name": "jeans"
+    },
+    {
+      "id": 2,
+      "name": "T-shirt"
+    },
+    {
+      "id": 3,
+      "name": "Shirt"
+    },
+    {
+      "name": "Beg",
+      "id": 4
+    },
+    {
+      "name": "Shoes",
+      "id": 5
+    }
+  ],
+  "brand": [
+    {
+      "id": 0,
+      "name": "puma"
+    },
+    {
+      "name": "adidas",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mufti"
+    },
+    {
+      "name": "Polo",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "Gucci",
+      "id": 5
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "jeans",
+      "maincategory": "Male",
+      "subcategory": "jeans",
+      "brand": "puma",
+      "color": "blue",
+      "size": "medium",
+      "baseprice": 1000,
+      "discount": 10,
+      "finalprice": 900,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "men-ankle-length-jeans-500x500.jpg",
+      "pic2": "p15.jpg",
+      "pic3": "p50.jpg",
+      "pic4": "p54.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Male beg",
+      "maincategory": "Male",
+      "subcategory": "Beg",
+      "brand": "Gucci",
+      "color": "blue",
+      "size": "medium",
+      "baseprice": 10000,
+      "discount": 25,
+      "finalprice": 7500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "bg2.webp",
+      "pic2": "bg1.jpg",
+      "pic3": "bg2.webp",
+      "pic4": "bg3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "men jeans",
+      "maincategory": "Male",
+      "subcategory": "jeans",
+      "brand": "Mufti",
+      "color": "black",
+      "size": "xl",
+      "baseprice": 1500,
+      "discount": 15,
+      "finalprice": 1275,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "download.webp",
+      "pic2": "b.webp",
+      "pic3": "p10.jpg",
+      "pic4": "p5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "menjeans",
+      "maincategory": "Male",
+      "subcategory": "T-shirt",
+      "brand": "Gucci",
+      "color": "dark blue",
+      "size": "medium",
+      "baseprice": 2500,
+      "discount": 20,
+      "finalprice": 2000,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "a.jpg",
+      "pic2": "b2.jpg",
+      "pic3": "p44.jpg",
+      "pic4": "p2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "girl jeans",
+      "maincategory": "Female",
+      "subcategory": "jeans",
+      "brand": "Zara",
+      "color": "blue",
+      "size": "medium",
+      "baseprice": 3999,
+      "discount": 15,
+      "finalprice": 3399,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "gg.webp",
+      "pic2": "g1.webp",
+      "pic3": "p12.jpg",
+      "pic4": "p6.jpg"
+    },
+    {
+      "id": 6,
+      "name": "kids product",
+      "maincategory": "Kids",
+      "subcategory": "Shoes",
+      "brand": "puma",
+      "color": "",
+      "size": "",
+      "baseprice": 1500,
+      "discount": 9,
+      "finalprice": 1365,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "k3.jpg",
+      "pic2": "k2.jpg",
+      "pic3": "k1.webp",
+      "pic4": "k4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "kid jeans",
+      "maincategory": "Kids",
+      "subcategory": "jeans",
+      "brand": "Zara",
+      "color": "dark blue",
+      "size": "medium",
+      "baseprice": 3000,
+      "discount": 25,
+      "finalprice": 2250,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p42.jpg",
+      "pic2": "p43.jpg",
+      "pic3": "p56.jpg",
+      "pic4": "p61.jpg"
+    },
+    {
+      "id": 8,
+      "name": "men jeans",
+      "maincategory": "Male",
+      "subcategory": "T-shirt",
+      "brand": "Polo",
+      "color": "black",
+      "size": "medium",
+      "baseprice": 8000,
+      "discount": 30,
+      "finalprice": 5600,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p5.jpg",
+      "pic2": "p54.jpg",
+      "pic3": "p30.jpg",
+      "pic4": "p11.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Shahrukh khan",
+      "email": "shahrukh9@gmail.com",
+      "phone": "9044235896",
+      "addressline1": "babuzai",
+      "addressline2": "231",
+      "addressline3": "spn",
+      "pin": "2420",
+      "city": "spn",
+      "state": "2455",
+      "pic": "p24.jpg"
+    },
+    {
+      "name": "amir ",
+      "username": "aggg",
+      "email": "amirbaig070@gmail.com",
+      "phone": "7906851746",
+      "password": "gggg",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "User",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "khan",
+      "username": "sahab",
+      "email": "shahrukh9@gmail.com",
+      "phone": "79068515541",
+      "password": "srk@123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "p50.jpg",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "name": "neha panday",
+      "username": "neha",
+      "email": "neha@gmail.com",
+      "phone": "44115",
+      "password": "neha",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "61kWqOie8eL._UL1500_.jpg",
+      "role": "User"
+    },
+    {
+      "id": 5,
+      "name": "amir ansari",
+      "username": "amir",
+      "email": "amir@gmail.com",
+      "phone": "658932145",
+      "password": "amir",
+      "addressline1": "ptappura",
+      "addressline2": "231",
+      "addressline3": "no",
+      "pin": "2420",
+      "city": "agra",
+      "state": "up",
+      "pic": "bg1.jpg",
+      "role": "Admin"
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 2,
+      "userid": "1",
+      "name": "Male beg",
+      "color": "blue",
+      "size": "medium",
+      "price": 7500,
+      "qty": 1,
+      "total": 7500,
+      "pic": "bg2.webp",
+      "id": 1
+    },
+    {
+      "productid": 8,
+      "userid": "1",
+      "name": "men jeans",
+      "color": "black",
+      "size": "medium",
+      "price": 5600,
+      "qty": 1,
+      "total": 5600,
+      "pic": "p5.jpg",
+      "id": 2
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 3
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 4
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 5
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 6
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 7
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 8
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 9
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 10
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 11
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 12
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 13
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 14
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 15
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 16
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 17
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 18
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 19
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 20
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 21
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 22
+    },
+    {
+      "productid": 7,
+      "userid": "1",
+      "name": "kid jeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2250,
+      "qty": 1,
+      "total": 2250,
+      "pic": "p42.jpg",
+      "id": 23
+    },
+    {
+      "productid": 6,
+      "userid": "1",
+      "name": "kids product",
+      "color": "",
+      "size": "",
+      "price": 1365,
+      "qty": 1,
+      "total": 1365,
+      "pic": "k3.jpg",
+      "id": 24
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 4,
+      "userid": "5",
+      "name": "menjeans",
+      "color": "dark blue",
+      "size": "medium",
+      "price": 2000,
+      "pic": "a.jpg",
+      "id": 1
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0,
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done"
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "time": "2023-03-17T11:51:09.969Z",
+      "totalAmount": 38875,
+      "shippingAmount": 0,
+      "finalAmount": 38875,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "3",
+          "name": "jeans",
+          "color": "blue",
+          "size": "medium",
+          "price": 900,
+          "qty": 3,
+          "total": 2700,
+          "pic": "men-ankle-length-jeans-500x500.jpg",
+          "id": 26
+        },
+        {
+          "productid": 7,
+          "userid": "3",
+          "name": "kid jeans",
+          "color": "dark blue",
+          "size": "medium",
+          "price": 2250,
+          "qty": 1,
+          "total": 2250,
+          "pic": "p42.jpg",
+          "id": 29
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 30
+        },
+        {
+          "productid": 8,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "medium",
+          "price": 5600,
+          "qty": 1,
+          "total": 5600,
+          "pic": "p5.jpg",
+          "id": 31
+        },
+        {
+          "productid": 4,
+          "userid": "3",
+          "name": "menjeans",
+          "color": "dark blue",
+          "size": "medium",
+          "price": 2000,
+          "qty": 1,
+          "total": 2000,
+          "pic": "a.jpg",
+          "id": 32
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 33
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 34
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 35
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 36
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 37
+        }
+      ],
+      "id": 1,
+      "orderstatus": "Delivered"
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "time": "2023-03-18T05:29:50.180Z",
+      "totalAmount": 40240,
+      "shippingAmount": 0,
+      "finalAmount": 40240,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "3",
+          "name": "jeans",
+          "color": "blue",
+          "size": "medium",
+          "price": 900,
+          "qty": 3,
+          "total": 2700,
+          "pic": "men-ankle-length-jeans-500x500.jpg",
+          "id": 26
+        },
+        {
+          "productid": 7,
+          "userid": "3",
+          "name": "kid jeans",
+          "color": "dark blue",
+          "size": "medium",
+          "price": 2250,
+          "qty": 1,
+          "total": 2250,
+          "pic": "p42.jpg",
+          "id": 29
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 30
+        },
+        {
+          "productid": 8,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "medium",
+          "price": 5600,
+          "qty": 1,
+          "total": 5600,
+          "pic": "p5.jpg",
+          "id": 31
+        },
+        {
+          "productid": 4,
+          "userid": "3",
+          "name": "menjeans",
+          "color": "dark blue",
+          "size": "medium",
+          "price": 2000,
+          "qty": 1,
+          "total": 2000,
+          "pic": "a.jpg",
+          "id": 32
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 33
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 34
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 35
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 36
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 37
+        },
+        {
+          "productid": 6,
+          "userid": "3",
+          "name": "kids product",
+          "color": "",
+          "size": "",
+          "price": 1365,
+          "qty": 1,
+          "total": 1365,
+          "pic": "k3.jpg",
+          "id": 38
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-03-18T07:53:45.204Z",
+      "totalAmount": 12840,
+      "shippingAmount": 0,
+      "finalAmount": 12840,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "3",
+          "name": "jeans",
+          "color": "blue",
+          "size": "medium",
+          "price": 900,
+          "qty": 3,
+          "total": 2700,
+          "pic": "men-ankle-length-jeans-500x500.jpg",
+          "id": 26
+        },
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 33
+        },
+        {
+          "productid": 3,
+          "userid": "3",
+          "name": "men jeans",
+          "color": "black",
+          "size": "xl",
+          "price": 1275,
+          "qty": 1,
+          "total": 1275,
+          "pic": "download.webp",
+          "id": 36
+        },
+        {
+          "productid": 6,
+          "userid": "3",
+          "name": "kids product",
+          "color": "",
+          "size": "",
+          "price": 1365,
+          "qty": 1,
+          "total": 1365,
+          "pic": "k3.jpg",
+          "id": 38
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-03-18T14:22:51.826Z",
+      "totalAmount": 7500,
+      "shippingAmount": 0,
+      "finalAmount": 7500,
+      "products": [
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Male beg",
+          "color": "blue",
+          "size": "medium",
+          "price": 7500,
+          "qty": 1,
+          "total": 7500,
+          "pic": "bg2.webp",
+          "id": 25
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "5",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-03-19T06:47:46.916Z",
+      "totalAmount": 0,
+      "shippingAmount": 0,
+      "finalAmount": 0,
+      "products": [],
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "khan",
+      "email": "amirbaig070@gmail.com",
+      "phone": "44115",
+      "subject": "interio",
+      "message": "fafcca",
+      "status": "Active",
+      "time": "2023-03-18T11:40:40.914Z",
+      "id": 1
+    },
+    {
+      "name": "Shahrukh khan",
+      "email": "shahrukh9@gmail.com",
+      "phone": "9044235896",
+      "subject": "interio",
+      "message": "ffdfdvf",
+      "status": "Active",
+      "time": "2023-03-18T14:21:12.995Z",
+      "id": 2
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "sk1109697@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "sk1109697@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "amir@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "shahrukh9@gmail.com",
+      "id": 4
+    }
+  ]
+}

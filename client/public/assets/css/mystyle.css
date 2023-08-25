@@ -1,0 +1,6 @@
+.mytable{
+    width: 100%;
+}
+.mytable th,td{
+    border: 2px solid lightgray;
+}
